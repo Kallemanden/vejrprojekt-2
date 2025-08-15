@@ -1,0 +1,4 @@
+Hvordan man kører det
+1. Installer nødvendige pakker:
+2. Sørg for, at `vejruddata.csv` er i samme mappe som scriptet.
+3. Kør scriptet: pip install -r requirements.txt
