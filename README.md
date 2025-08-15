@@ -1,5 +1,3 @@
-# vejrprojekt-2
-
 Dette projekt er et lille Python-projekt, hvor vi analyserer og visualiserer vejruddata.  
 
 Hvad projektet gør
